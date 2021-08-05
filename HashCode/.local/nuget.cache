@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YyHsDjZR/LYMlR+LqqSPm/uXedoSmQwF+omQnLaXIQXl4GhGtCBfTaHBoY+LEMYM/hQG02Wc9+yrdGHLnt5igA==",
+  "dgSpecHash": "vIYbgBTceAMr9nC36PIqUQZGYWFsmIL5liAiW9e0M7ZMLmpajZDjm6+m+tQDw2KRyok6+zlG49GegtWxKogbjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patri\\Desktop\\Calculate_Client_Security_Hash\\.local\\",
+  "projectFilePath": "C:\\Users\\patri\\Documents\\GitHub\\Assignment1\\HashCode\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\patri\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -75,7 +75,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\patri\\Desktop\\Calculate_Client_Security_Hash\\.local",
+      "filePath": "C:\\Users\\patri\\Documents\\GitHub\\Assignment1\\HashCode\\.local",
       "message": "Microsoft.Extensions.Primitives 3.1.6 depends on System.Memory (>= 4.5.2) but System.Memory 4.5.2 was not found. An approximate best match of System.Memory 4.5.3 was resolved.",
       "libraryId": "System.Memory",
       "targetGraphs": [

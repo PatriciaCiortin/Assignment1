@@ -5054,11 +5054,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "CalculateClientSecurityHash",
-      "projectName": "CalculateClientSecurityHash",
-      "projectPath": "C:\\Users\\patri\\Desktop\\Calculate_Client_Security_Hash\\.local",
+      "projectUniqueName": "HashCode",
+      "projectName": "HashCode",
+      "projectPath": "C:\\Users\\patri\\Documents\\GitHub\\Assignment1\\HashCode\\.local",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\Calculate_Client_Security_Hash\\.local"
+      "outputPath": "C:\\Users\\patri\\Documents\\GitHub\\Assignment1\\HashCode\\.local"
     },
     "frameworks": {
       "net461": {
